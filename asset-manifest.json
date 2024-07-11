@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Zeakurbeaver/Portfolio.git/static/css/main.3c5d7e09.css",
-    "main.js": "/Zeakurbeaver/Portfolio.git/static/js/main.6f390268.js",
-    "static/js/453.ed3810f9.chunk.js": "/Zeakurbeaver/Portfolio.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/Hero2 element.mp4": "/Zeakurbeaver/Portfolio.git/static/media/Hero2 element.9d9a170e069e5c7a7d0d.mp4",
-    "static/media/9.svg": "/Zeakurbeaver/Portfolio.git/static/media/9.b907421851fcba18c9eebc2909a5e94c.svg",
-    "static/media/12.svg": "/Zeakurbeaver/Portfolio.git/static/media/12.8e73da7b6225b80467145852ebec844e.svg",
-    "static/media/10.svg": "/Zeakurbeaver/Portfolio.git/static/media/10.07f31f0d38554959937af7c640b8ba4d.svg",
-    "static/media/11.svg": "/Zeakurbeaver/Portfolio.git/static/media/11.9e6c3d4558577fe01ccae166f2b6f171.svg",
-    "static/media/Zeakur Design Header(8).mp4": "/Zeakurbeaver/Portfolio.git/static/media/Zeakur Design Header(8).489f71ac57ff19353258.mp4",
-    "static/media/logo.svg": "/Zeakurbeaver/Portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Zeakurbeaver/Portfolio.git/index.html",
-    "main.3c5d7e09.css.map": "/Zeakurbeaver/Portfolio.git/static/css/main.3c5d7e09.css.map",
-    "main.6f390268.js.map": "/Zeakurbeaver/Portfolio.git/static/js/main.6f390268.js.map",
-    "453.ed3810f9.chunk.js.map": "/Zeakurbeaver/Portfolio.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/css/main.3c5d7e09.css",
+    "main.js": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/js/main.5045a966.js",
+    "static/js/453.ed3810f9.chunk.js": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/js/453.ed3810f9.chunk.js",
+    "static/media/Hero2 element.mp4": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/Hero2 element.9d9a170e069e5c7a7d0d.mp4",
+    "static/media/9.svg": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/9.b907421851fcba18c9eebc2909a5e94c.svg",
+    "static/media/12.svg": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/12.8e73da7b6225b80467145852ebec844e.svg",
+    "static/media/10.svg": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/10.07f31f0d38554959937af7c640b8ba4d.svg",
+    "static/media/11.svg": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/11.9e6c3d4558577fe01ccae166f2b6f171.svg",
+    "static/media/Zeakur Design Header(8).mp4": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/Zeakur Design Header(8).489f71ac57ff19353258.mp4",
+    "static/media/logo.svg": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/index.html",
+    "main.3c5d7e09.css.map": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/css/main.3c5d7e09.css.map",
+    "main.5045a966.js.map": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/js/main.5045a966.js.map",
+    "453.ed3810f9.chunk.js.map": "/Zeakurbeaver/Portfolio.gitnpm%20install%20gh-pages%20--save/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c5d7e09.css",
-    "static/js/main.6f390268.js"
+    "static/js/main.5045a966.js"
   ]
 }
