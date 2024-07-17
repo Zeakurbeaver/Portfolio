@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b6c9e411.css",
-    "main.js": "/Portfolio/static/js/main.739edb1a.js",
+    "main.css": "/Portfolio/static/css/main.389e4d44.css",
+    "main.js": "/Portfolio/static/js/main.5a245757.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/Hero2 element.mp4": "/Portfolio/static/media/Hero2 element.9d9a170e069e5c7a7d0d.mp4",
     "static/media/9.svg": "/Portfolio/static/media/9.b907421851fcba18c9eebc2909a5e94c.svg",
@@ -10,14 +10,15 @@
     "static/media/11.svg": "/Portfolio/static/media/11.9e6c3d4558577fe01ccae166f2b6f171.svg",
     "static/media/Logo2.png": "/Portfolio/static/media/Logo2.dc402966fe4f4e6fd8af.png",
     "static/media/Zeakur Design Header(8).mp4": "/Portfolio/static/media/Zeakur Design Header(8).489f71ac57ff19353258.mp4",
+    "static/media/Compvideo.mp4": "/Portfolio/static/media/Compvideo.e0b70395ce66569ffa8e.mp4",
     "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Portfolio/index.html",
-    "main.b6c9e411.css.map": "/Portfolio/static/css/main.b6c9e411.css.map",
-    "main.739edb1a.js.map": "/Portfolio/static/js/main.739edb1a.js.map",
+    "main.389e4d44.css.map": "/Portfolio/static/css/main.389e4d44.css.map",
+    "main.5a245757.js.map": "/Portfolio/static/js/main.5a245757.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6c9e411.css",
-    "static/js/main.739edb1a.js"
+    "static/css/main.389e4d44.css",
+    "static/js/main.5a245757.js"
   ]
 }
