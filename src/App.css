@@ -21,20 +21,39 @@ overflow: hidden;
 }
 
 .footer{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
   color: #333;
   background-color: #555;
  height: 30rem;
 padding-bottom: -140rem;
 
+
 }
 
 .footer-3rd{
   position: relative;
+  left: 40rem;
+}
+
+.Footer-image{
+  max-width: 20rem;
+position: relative;
+grid-area: 1/1;
+z-index: 9;
+}
+
+
+.Footer-image2{
+  max-width: 20rem;
+  position: relative;
+  grid-area: 1/2;
+  z-index: 9;
 }
 
 
 .comptia-video{
-  border: orange solid 2px;
+
   max-width: 140rem;
   padding: 0;
   margin: 0;

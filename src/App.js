@@ -6,6 +6,8 @@ import body2 from './10.svg';
 import body3 from './11.svg';
 import body4 from './12.svg';
 import logo2 from './Logo2.png';
+import Footerimage from './Linked in logo(1).png';
+import Footerimage2 from './Github logo.png';
 import logo6 from './Compvideo.mp4';
 import './App.css';
 import gsap from 'gsap';
@@ -74,7 +76,7 @@ function App() {
             trigger: ".wrapper5",
             start: "50% center",
             end: "180% top",
-            markers: true,
+            markers: false,
             pin: true,
             pinnedContainer: ".wrapper5",
             pinSpacing: true,
@@ -243,9 +245,16 @@ function App() {
       
       <footer className='footer' >
         <div className='footer-3rd'>
-          <p>Footer section
+          <p>Resource Links
           </p>
+          <a href='https://www.linkedin.com/in/stephen-santiago-09a192317/'>
+          <img className="Footer-image"
+          src={Footerimage}></img>
+          </a>
+           <a href='https://zeakurbeaver.github.io/Portfolio/'>  <img className="Footer-image2"
+          src={Footerimage2} ></img></a>
         </div>
+        
 </footer>
     </div>
 
